@@ -3,14 +3,14 @@
 > A simple desktop app to browse and monitor prediction markets on Manifold Markets in real-time.
 
 
-## ✨ Core Features
+##  Core Features
 
 -   **Live Monitoring**: Use it as a second-screen widget to easily watch market odds (like a team's win rate) change in real-time while you're watching a game or a live stream.
 -   **Market Discovery**: Quickly find any market with keywords or browse popular markets by category.
 -   **Custom Refresh Rate**: You can set your own data refresh frequency.
 
 
-## 🚀 How to Use
+##  How to Use
 
 No installation required.
 
@@ -19,14 +19,15 @@ No installation required.
 3.  Run it directly.
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 -   Python
 -   Tkinter & ttkbootstrap
 
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
